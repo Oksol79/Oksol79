@@ -1,4 +1,4 @@
-## Hi, I’m Oksana! 👋
+## 👋 Hi, I’m Oksana! 
 
 A data analyst specializing in creating actionable value through data-driven solutions. 
 
